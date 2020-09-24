@@ -1,0 +1,13 @@
+C:\Users\thang\source\repos\AbstractFactory\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+C:\Users\thang\source\repos\AbstractFactory\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Users\thang\source\repos\AbstractFactory\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+C:\Users\thang\source\repos\AbstractFactory\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+C:\Users\thang\source\repos\AbstractFactory\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\thang\source\repos\AbstractFactory\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\thang\source\repos\AbstractFactory\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\thang\source\repos\AbstractFactory\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\thang\source\repos\AbstractFactory\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\thang\source\repos\AbstractFactory\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\thang\source\repos\AbstractFactory\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\thang\source\repos\AbstractFactory\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\thang\source\repos\AbstractFactory\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.genruntimeconfig.cache

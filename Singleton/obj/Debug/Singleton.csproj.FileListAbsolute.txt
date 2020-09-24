@@ -1,0 +1,7 @@
+C:\Users\thang\source\repos\AbstractFactory\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+C:\Users\thang\source\repos\AbstractFactory\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\thang\source\repos\AbstractFactory\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\thang\source\repos\AbstractFactory\Singleton\bin\Debug\Singleton.exe
+C:\Users\thang\source\repos\AbstractFactory\Singleton\bin\Debug\Singleton.pdb
+C:\Users\thang\source\repos\AbstractFactory\Singleton\obj\Debug\Singleton.exe
+C:\Users\thang\source\repos\AbstractFactory\Singleton\obj\Debug\Singleton.pdb
