@@ -1,7 +1,0 @@
-C:\Users\thang\source\repos\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
-C:\Users\thang\source\repos\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
-C:\Users\thang\source\repos\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
-C:\Users\thang\source\repos\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
-C:\Users\thang\source\repos\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
-C:\Users\thang\source\repos\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
-C:\Users\thang\source\repos\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
