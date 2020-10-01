@@ -8,7 +8,7 @@ namespace FactoryMethod
     {
         public override Banh CreateBanh()
         {
-            return new BanhPizza(" xuân ");
+            return new BanhPizza();
         }
     }
 }
