@@ -14,5 +14,10 @@ namespace Decorator
         {
             return base.UpgradeLaptop()+ " and laptop's keyboard has been moded";
         }
+
+        public string KeycapMod()
+        {
+            return "This laptop has Keycap's mod!";
+        }
     }
 }

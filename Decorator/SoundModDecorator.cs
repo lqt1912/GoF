@@ -14,5 +14,10 @@ namespace Decorator
         {
             return base.UpgradeLaptop()+ " and laptop's sound has been moded";
         }
+
+        public string BoostSound()
+        {
+            return "This laptop's sound boosted! ";
+        }
     }
 }
