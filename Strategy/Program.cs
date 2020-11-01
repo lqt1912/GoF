@@ -6,8 +6,12 @@ namespace Strategy
     {
         static void Main(string[] args)
         {
-            Car car = new Car();
+            Vehicle car = new Car();
             car.GoWithVehicle();
+
+            car.SetVehicle(new GoFlying());
+            car.GoWithVehicle();
+            Console.WriteLine();
         }
     }
 }
