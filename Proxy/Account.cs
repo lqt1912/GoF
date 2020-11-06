@@ -4,6 +4,12 @@ using System.Text;
 
 namespace Proxy
 {
+    public interface IAccount
+    {
+        void Deposit(int amount);
+        void Withdraw(int amount);
+        void CheckBalance();
+    }
     public class Account
     {
          int Balance;

@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Proxy
+namespace Proxy 
 {
-    public static class LoginSystem
+    public static class LoginSystem 
     {
         public static bool Login(string username)
         {
@@ -13,7 +13,7 @@ namespace Proxy
             else return false;
         }
     }
-    public class AccountProxy
+    public class AccountProxy :IAccount
     {
         string Username;
         Account CurrentAccount;
