@@ -10,7 +10,7 @@ namespace Proxy
         void Withdraw(int amount);
         void CheckBalance();
     }
-    public class Account
+    public class Account :IAccount
     {
          int Balance;
 
